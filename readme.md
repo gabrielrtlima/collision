@@ -1,13 +1,15 @@
-   ![](https://user-images.githubusercontent.com/70954101/102726655-48c69680-42ff-11eb-9fce-d6e7430f732b.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70954101/102726655-48c69680-42ff-11eb-9fce-d6e7430f732b.gif" />
+</p>
 
 ## Collision
 
 Jogo retrô criado com python e pyxel (engine para criações de jogos rêtros).
 
 
-
-   <img src="https://user-images.githubusercontent.com/70954101/102726706-ba064980-42ff-11eb-91da-505252230ed5.gif" style="zoom:50%;" />
-
+<p align="center">
+<img width="500" height="500" src="https://user-images.githubusercontent.com/70954101/102726706-ba064980-42ff-11eb-91da-505252230ed5.gif" style="zoom:50%;" />
+<\p>
 
 
 ## About project
@@ -19,9 +21,9 @@ Faculdade: [UPE - Universidade de Pernambuco](http://www.upe.br/)
 Professor da disciplina: [Emanoel Barreiros](https://github.com/emanoelbarreiros)
 
 
-
-   <img src="https://user-images.githubusercontent.com/70954101/102726940-4b29f000-4301-11eb-8ce7-3e3d84d53e1e.gif" style="zoom:33%;" />
-
+<p align="center">
+<img width="500" height="500" src="https://user-images.githubusercontent.com/70954101/102726940-4b29f000-4301-11eb-8ce7-3e3d84d53e1e.gif" style="zoom:33%;" />
+<\p>
 
 
 
