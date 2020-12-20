@@ -1,40 +1,43 @@
+   ![](https://user-images.githubusercontent.com/70954101/102726655-48c69680-42ff-11eb-9fce-d6e7430f732b.gif)
+
+## Collision
+
+Jogo retrô criado com python e pyxel (engine para criações de jogos rêtros).
 
 
-## Jogo retrô criado em python
 
-Projeto da disciplina de Programação 1 do curso de Eng. de Software da UPE.
-
+   <img src="https://user-images.githubusercontent.com/70954101/102726706-ba064980-42ff-11eb-91da-505252230ed5.gif" style="zoom:50%;" />
 
 
-## Telas do jogo
 
-1. **Início**
+## About project
 
-   
-      <img src="https://i.imgur.com/YwTbbWx.png" style="zoom: 33%;" />
+Projeto criado para disciplina de **PROGRAMAÇÃO 1** no 1º período de Eng. de Software, projeto elaborado por: [Gabriel Rodrigues](https://github.com/gabrielrtlima) e Igor Leonardo
 
- 
-2.  **Créditos** 
+Faculdade: [UPE - Universidade de Pernambuco](http://www.upe.br/)
+
+Professor da disciplina: [Emanoel Barreiros](https://github.com/emanoelbarreiros)
 
 
-      <img src="https://i.imgur.com/1zn9nlH.png" style="zoom: 33%;" />
-   
 
-3.  **INGAME**
+   <img src="https://user-images.githubusercontent.com/70954101/102726940-4b29f000-4301-11eb-8ce7-3e3d84d53e1e.gif" style="zoom:33%;" />
 
-      
-      <img src="https://i.imgur.com/ePyUpiD.png" style="zoom: 33%;" />
-         
 
-4. **GameOver**
-      
 
-      <img src="https://i.imgur.com/uEKhoKk.png" style="zoom: 33%;" />
-      
 
-   **Jogo criado por: Gabriel Rodrigues e Igor Leonardo**
 
-   **Professor orientador: Emanoel Barreiros**
+## About me
 
-   **UPE - Universidade de Pernambuco** 
+Oi, me chamo Gabriel. Sou estudando de Eng. de Software na UPE - Universidade de Pernambuco, uso do meu GitHub para compartilhar projetos pessoais enquanto me aventuro por novas linguagens, bibliotecas e afins.
+
+:email: gabriel.rtlima@upe.br
+
+:camera:[@gabrielrtl](http://instagram.com/gabrielrtl)
+
+
+
+## Projetos
+
+[Sistema de login](https://github.com/gabrielrtlima/login-py-mongodb) - *Sistema de login integrado ao MongoDB*
+
 
