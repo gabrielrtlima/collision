@@ -28,7 +28,7 @@ Professor da disciplina: [Emanoel Barreiros](https://github.com/emanoelbarreiros
 
 ## About me
 
-Oi, me chamo Gabriel. Sou estudando de Eng. de Software na UPE - Universidade de Pernambuco, uso do meu GitHub para compartilhar projetos pessoais enquanto me aventuro por novas linguagens, bibliotecas e afins.
+Oi, me chamo Gabriel. Sou estudante de Eng. de Software na UPE - Universidade de Pernambuco, uso do meu GitHub para compartilhar projetos pessoais enquanto me aventuro por novas linguagens, bibliotecas e afins.
 
 :email: gabriel.rtlima@upe.br
 
